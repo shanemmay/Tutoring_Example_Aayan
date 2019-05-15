@@ -1,0 +1,29 @@
+{
+  "name": "tutoring_example_aayan",
+  "version": "1.0.0",
+  "description": "Tutoring Example for Aayan",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('test cmd');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanemmay/Tutoring_Example_Aayan.git"
+  },
+  "keywords": [
+    "Tutoring",
+    "Example",
+    "Aayan"
+  ],
+  "author": "shanemarvinmay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanemmay/Tutoring_Example_Aayan/issues"
+  },
+  "homepage": "https://github.com/shanemmay/Tutoring_Example_Aayan#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security"
+  }
+}
